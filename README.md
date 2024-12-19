@@ -40,24 +40,9 @@
  
 
  
-<hr>
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vearvip&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
-
-</br>
-
-<a href="https://github.com/vearvip/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vearvip&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-<a href="https://github.com/vearvip/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vearvip&repo=deldrone&theme=dracula" />
-</a>
+<hr />
+ 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 欢迎点点⭐呀铁汁
 </div>
