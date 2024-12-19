@@ -1,8 +1,8 @@
 
-<div  >
+<div align="center">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>吃了吗？您呐！<img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" /></h1>
 </div> 
-<div >
+<div align="center">
   <a href="https://space.bilibili.com/15164232" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN010vhfwj1fNIuN0tSpc_!!6000000003994-2-tps-200-200.png"></a>
   <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_qq.jpg" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i4/O1CN01ktXiwq23mzuDxEodE_!!6000000007299-2-tps-200-200.png" /></a> 
   <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_wechat.png" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN01e2WS3e1p7PJoYB3VC_!!6000000005313-2-tps-200-200.png" ></a> 
