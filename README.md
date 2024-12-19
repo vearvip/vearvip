@@ -35,7 +35,9 @@
  
 
  
-<hr />
+<h4>
+GitHub Stats
+</h4>
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=vearvip&amp;show_icons=true" alt="GitHub Stats"></p> 
 <div align="center">
