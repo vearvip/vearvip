@@ -23,17 +23,56 @@
 
 **喜爱的语言和库:**
 <br>
-  
-<code><img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN015AXO281EW0oMYKfF7_!!6000000000358-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN01Dbze1O1cKbjEFAUTh_!!6000000003582-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01WK8EbT1C6hhBORew3_!!6000000000032-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i3/O1CN01rHM4SB24KQoonxhU8_!!6000000007372-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01aVHAUQ1doCwSKfQln_!!6000000003782-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01DVtNVO1qIggmgJLvW_!!6000000005473-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01uGJtJD1v98VURNwkg_!!6000000006129-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01v0tLyn288lBiGcCoq_!!6000000007888-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN01TSGXVq1diFnGisJNk_!!6000000003769-2-tps-200-200.png"></code>
-<code><img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN010QllKt234ZUGOKLhv_!!6000000007202-2-tps-200-200.png"></code>
+<code>
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML">
+    <img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN015AXO281EW0oMYKfF7_!!6000000000358-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS">
+    <img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN01Dbze1O1cKbjEFAUTh_!!6000000003582-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">
+    <img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01WK8EbT1C6hhBORew3_!!6000000000032-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://www.typescriptlang.org/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i3/O1CN01rHM4SB24KQoonxhU8_!!6000000007372-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://vuejs.org/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01aVHAUQ1doCwSKfQln_!!6000000003782-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://react.dev/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01DVtNVO1qIggmgJLvW_!!6000000005473-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://nodejs.org/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01uGJtJD1v98VURNwkg_!!6000000006129-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://nestjs.com/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i2/O1CN01v0tLyn288lBiGcCoq_!!6000000007888-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://www.python.org/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN01TSGXVq1diFnGisJNk_!!6000000003769-2-tps-200-200.png">
+  </a>
+</code>
+<code>
+  <a href="https://flutter.dev/">
+    <img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN010QllKt234ZUGOKLhv_!!6000000007202-2-tps-200-200.png">
+  </a>
+</code> 
  
 
  
