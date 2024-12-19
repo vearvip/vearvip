@@ -1,25 +1,23 @@
 
-<div  style=" display: flex;justify-content: center;border-radius: 6px;">
+<div  >
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>吃了吗？您呐！</h1>
 </div>
-<div style=" display: flex;justify-content: center;">
-<div  style="background: #efefef; padding-left: 10px; padding-top: 8px;display: inline-block;border-radius: 6px;">
-  <a href="https://space.bilibili.com/15164232" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN010vhfwj1fNIuN0tSpc_!!6000000003994-2-tps-200-200.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_qq.jpg" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i4/O1CN01ktXiwq23mzuDxEodE_!!6000000007299-2-tps-200-200.png"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_wechat.png" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN01e2WS3e1p7PJoYB3VC_!!6000000005313-2-tps-200-200.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<div  >
+<div >
+  <a href="https://space.bilibili.com/15164232" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN010vhfwj1fNIuN0tSpc_!!6000000003994-2-tps-200-200.png"></a>
+  <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_qq.jpg" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i4/O1CN01ktXiwq23mzuDxEodE_!!6000000007299-2-tps-200-200.png" /></a> 
+  <a href="https://cdn.jsdelivr.net/gh/vearvip/cdn@v0.0.14/img/qrcode_wechat.png" target="_blank"><img height="30" src="https://img.alicdn.com/imgextra/i1/O1CN01e2WS3e1p7PJoYB3VC_!!6000000005313-2-tps-200-200.png" ></a> 
+  <a href="mailto:vear.vip@qq.com" target="_blank"><img height="26" src="https://img.alicdn.com/imgextra/i3/O1CN01XMt4xa28W7O6sn4WD_!!6000000007939-2-tps-355-200.png" style="margin-bottom: 2px;margin-left: -2px;"></a> 
 </div>
 </div>
 
 <br>
 
-哈喽, 我是[唯二](https://www.vear.vip/),  是一个来自湖南现居杭州的底层码农👨🏻‍💻，喜欢一些酷酷的东西😎，例如魔方、方言、图寻
+哈喽, 我是[唯二](https://www.vear.vip/),  是一个来自湖南现居杭州的底层码农👨🏻‍💻，喜欢一些酷酷的东西😎，例如魔方、方言和看别人玩图寻
 <br>
-
- - 📫 如何联系我: [vear.vip@qq.com](mailto:vear.vip@qq.com);
+ 
  - 🔗 我的博客: [https://www.vear.vip/](https://www.vear.vip/)
-  
-<!-- <img src="https://i1.hdslb.com/bfs/article/712380300349dba13e0548c11a836baa20bba901.gif@1000w_756h.avif" /> -->
-
+   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" /> </p>
  
  </br>
