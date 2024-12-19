@@ -22,7 +22,7 @@
   
 
 **喜爱的语言和库:**
-<div align="center">
+<div >
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML">  <img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN015AXO281EW0oMYKfF7_!!6000000000358-2-tps-200-200.png"></a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS">  <img height="20" src="https://img.alicdn.com/imgextra/i4/O1CN01Dbze1O1cKbjEFAUTh_!!6000000003582-2-tps-200-200.png"></a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">  <img height="20" src="https://img.alicdn.com/imgextra/i1/O1CN01WK8EbT1C6hhBORew3_!!6000000000032-2-tps-200-200.png"></a>
