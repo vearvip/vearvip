@@ -14,7 +14,9 @@
 哈喽, 我是[唯二](https://www.vear.vip/),  是一个来自湖南现居杭州的底层码农👨🏻‍💻，喜欢一些酷酷的东西😎，例如魔方、方言和看别人玩图寻
 <br>
  
- - 🔗 我的博客: [https://www.vear.vip/](https://www.vear.vip/)
+ - 🔗 我的博客：[https://www.vear.vip](https://www.vear.vip)
+ - 🔗 我维护的网站：
+   - 音典：[https://mcpdict.vear.vip](https://mcpdict.vear.vip)
 
 
   
@@ -36,7 +38,7 @@
 
  
 <h4>
-GitHub Stats
+GitHub Stats:
 </h4>
  
 <p><img src="https://github-readme-stats.vercel.app/api?username=vearvip&amp;show_icons=true" alt="GitHub Stats"></p> 
