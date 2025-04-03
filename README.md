@@ -25,7 +25,7 @@
   
 </div>
 <br />
-<a target="_blank" href="https://www.bilibili.com/video/BV1vJ411U7Ji/"> 
+<a target="_blank" href="https://www.bilibili.com/video/BV1DJ411X7qR/"> 
  <img height="100" src="https://img.alicdn.com/imgextra/i3/O1CN01yVNju81y6KxWzeGW0_!!6000000006529-2-tps-1002-333.png" />
 </a> 
 
