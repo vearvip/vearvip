@@ -1,5 +1,8 @@
 
-<h2>唯二主義&nbsp;<img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" /></h1></h2>
+<h2>
+ 唯二主義&nbsp;
+ <img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" />
+</h2>
  
 <div>
   <img align="right" width="500px" src="https://img.alicdn.com/imgextra/i2/O1CN01fmtF351h5YolhaKgA_!!6000000004226-49-tps-1920-1080.webp" />
