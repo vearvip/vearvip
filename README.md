@@ -2,11 +2,11 @@
 <h2>唯二主義&nbsp;<img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" /></h1></h2>
  
 <div>
-  <img align="right" width="300px" src="https://img.alicdn.com/imgextra/i4/O1CN01YMQb6s1ISaKvpKtpB_!!6000000000892-2-tps-1920-1080.png" />
+  <img align="right" width="40%" src="https://img.alicdn.com/imgextra/i4/O1CN01YMQb6s1ISaKvpKtpB_!!6000000000892-2-tps-1920-1080.png" />
 </div>
   <strong>Hello, 我是唯二，现居杭州的社畜一只。</strong> 
   <ul>
-      <li>我的博客：<a href="https://www.vear.vip">https://www.vear.vip</a></li>
+      <li>博客：<a href="https://www.vear.vip">https://www.vear.vip</a></li>
       <li>汉字音典：<a href="https://mcpdict.vear.vip">https://mcpdict.vear.vip</a></li>
   </ul>
 
@@ -23,7 +23,8 @@
 
 <br />
 <div>
-<img width="40%"  src="https://github-readme-stats.vercel.app/api?username=vearvip&count_private=true&show_icons=true&theme=jolly&hide=issues,contribs" />
-<img width="46%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vearvip&theme=jolly" />
+<!-- <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=vearvip&count_private=true&show_icons=true&theme=jolly&hide=issues,contribs" />
+  -->
+<!-- <img width="86%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vearvip&theme=jolly" /> -->
  
 </div>
