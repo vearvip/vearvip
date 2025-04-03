@@ -2,7 +2,7 @@
 <h2>唯二主義&nbsp;<img src="https://komarev.com/ghpvc/?username=vearvip" alt="vearvip" /></h1></h2>
  
 <div>
-  <img align="right" width="400px" src="https://img.alicdn.com/imgextra/i4/O1CN01YMQb6s1ISaKvpKtpB_!!6000000000892-2-tps-1920-1080.png" />
+  <img align="right" width="500px" src="https://img.alicdn.com/imgextra/i4/O1CN01YMQb6s1ISaKvpKtpB_!!6000000000892-2-tps-1920-1080.png" />
 </div>
   <strong>Hello, 我是唯二，现居杭州的社畜一只。</strong> 
   <ul>
@@ -22,6 +22,10 @@
   <a href="https://www.docker.com/">  <img height="20" src="https://img.alicdn.com/imgextra/i3/O1CN01pcvp4L1PV3lS8PoD2_!!6000000001845-2-tps-250-200.png"></a> 
   
 </div>
+<br />
+<a href="https://music.163.com/#/song?id=1404150579"> 
+ <img height="100" src="https://img.alicdn.com/imgextra/i3/O1CN01yVNju81y6KxWzeGW0_!!6000000006529-2-tps-1002-333.png" />
+</a> 
 
 <br />
 <div>
