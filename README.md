@@ -7,7 +7,7 @@
 <div>
   <img align="right" width="500px" src="https://img.alicdn.com/imgextra/i2/O1CN01fmtF351h5YolhaKgA_!!6000000004226-49-tps-1920-1080.webp" />
 </div>
-  <strong>Hello, 我是唯二，现居杭州的社畜一只。</strong> 
+  <strong>Hello, 我是唯二，现居杭州的 <s>社畜一只</s> 无业奶爸一只。</strong> 
   <ul>
       <li>博客：<a target="_blank" href="https://www.vear.vip">https://www.vear.vip</a></li>
       <li>汉字音典：<a target="_blank" href="https://mcpdict.vear.vip">https://mcpdict.vear.vip</a></li>
